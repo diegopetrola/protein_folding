@@ -44,9 +44,7 @@ The simulation produces two key outputs:
 1.  **3D Structure Plot:** A visualization of the folded protein, showing the "Hydrophobic Core" and the Polar shell.
 2.  **Energy Landscape:** A graph of Energy vs. Time, demonstrating the phase transition from random coil to globular protein.
 
-\*(If you have a screenshot of your plot, replace this line with: `![Folding Result](path_to_image.png)`)\_
-
-## 🔮 Future Improvements
+## Future Improvements
 
 - Implement a Genetic Algorithm to evolve sequences that fold faster.
 - Add 3D visualization using PyMOL or VMD integration.
